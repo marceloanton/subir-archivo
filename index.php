@@ -16,7 +16,7 @@ session_start();
   ?>
   <form method="POST" action="upload.php" enctype="multipart/form-data">
     <div>
-      <span>Upload a File:</span>
+      <span>Subir Archivo:</span>
       <input type="file" name="subirArchivo" />
     </div>
 

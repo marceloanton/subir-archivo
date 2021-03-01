@@ -1,3 +1,6 @@
 # Subir archivos en PHP
 
-Usalo como te plasca!
+
+Demostración simple de como subir archivos con PHP
+
+Usalo como te plazca!
